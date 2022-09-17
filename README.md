@@ -1,6 +1,6 @@
 # NLW eSports - Trilha explorer
 
-![preview](assets/rafaelsantos360.github.io_NLWsports_.png)
+![preview](git.hub/rafaelsantos360.github.io_NLWsports_.png)
 
 Projeto construido no evento next level week da Rocketseat
 
